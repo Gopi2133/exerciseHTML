@@ -1,0 +1,33 @@
+body{
+    background-image: url(background.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+  }
+.bot p {
+    font-size:50px;
+    text-align:center;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+.gopu1{
+    width:100%;
+}
+.clear{
+    font-size:30px;
+    color:rgb(0, 0, 0);
+    background-color:red;
+    border-radius:21px;
+    border-color: red;
+}
+.bot table{
+    margin-left:350px;
+}
+.bot table tr td button{
+    font-size:40px;
+    color:rgb(0, 0, 0);
+    background-color: aqua;
+    border-radius:21px;
+    border-color: aqua;
+}
